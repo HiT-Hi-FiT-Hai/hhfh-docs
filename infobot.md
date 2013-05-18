@@ -62,23 +62,21 @@ again a non-negative number less than 50. Default value for limit is 15.
 
 ## SECTION 3 - DELETING
 
-All the deletion statements need a valid ID for respective tables. Other than that, you also need to either have VIP+ powers or
-the entry must have been added by you to delete them.
+All the deletion statements need a valid ID for respective tables. Other than that, you also *need to either have VIP+ powers* or
+the **entry must have been added by you** to delete them.
 
- * `delreq` (or `dr`) - Deletes from request table
- * `delsug` (or `dsg`) - Remove a suggestion you might think is bloated
- * `delnws` (or `dn`) - Erase a news entry
- * `delbns` (or `dbsell`) - To be used when you forgot to add some vital information in your message
- * `delmsg` (or `dmsg`) - You might've wanted to add reply to some other message maybe
+ * `delreq` - Deletes from request table. **Shorthand:** `dr`
+ * `delsug` - Remove a suggestion you might think is bloated. **Shorthand:** `dsg`
+ * `delnws` - Erase a news entry. **Shorthand:** `dn`
+ * `delbns` - To be used when you forgot to add some vital information in your message. **Shorthand:** `dbsell`
+ * `delmsg` - You might've wanted to add reply to some other message maybe. **Shorthand:** `dmsg`
 
 ## Section 4 - Others
 
- * `help` (or `h`) shows this help text.
- * `fill` followed by mandatory ID from a valid unfilled request; fills up the request marking it your nickname
-     while informing the requester that you've done so.
- * `switch` accepts a numerical and valid ID from buy and sell section so that you may mark your thread as old. This is
-     useful for closing older deals. The command changes status of threads to *BOUGHT* or *SOLD* as applicable.
- * `close` acts similar to `fill` but is usable by moderators and above power-users only. The requester is still
-     notified about the action.
-
-Please inform hjpotter92 in case of any problems you face related to newer Infobot
+ * `help` - shows this help text.
+ * `fill <#ID>` - applicable only to unfilled requests; fills up the request marking it your nickname and informing
+     the requester that you've done so.
+ * `switch <#ID>` - pertinent to buy and sell table so that you may mark your thread as old. This is useful for closing
+     older deals. The command changes status of threads to *BOUGHT* or *SOLD* as applicable.
+ * `close <#ID>` - acts similar to `fill` but is usable by moderators and above power-users only. The requester is still
+     notified about the action. It is used for ineffective or non-fillable requests.
