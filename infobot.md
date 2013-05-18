@@ -8,10 +8,23 @@ or it can rewritten/tweaked in a more user-friendly manner, feel free to send in
 The commands are sub-divided into following categories:
 
 1. Reading databases commands
-2. Adding to tables
-3. Deletion from tables
-4. Miscellaneous commands
+1. Adding to tables
+1. Deletion from tables
+1. Miscellaneous commands
 
+# Key
+The following provides a short index of user-input variables referenced later in documentation.
+
+    <#ID>          Number         An ID for respective tabular array
+    <Lctg>         String         Valid categories as for latest entries
+    <Bctg>         String         Categories applicable to buy and sell section
+    <msg>          String         Complete string to be added
+
+# Detailed guide on USAGE
+
+> The content inside angular brackets represents user-input. If a
+> user input is enclosed in square brackets, then it is optional and
+> can be skipped by users.
 
 ## SECTION 1 - READING
 
