@@ -53,7 +53,6 @@ again a non-negative number less than 50. Default value for limit is 15.
      by a valid numerical ID from BnS. When you add a reply, the interested user gets notified. **Shorthand:** `amsg`
  * `anws`, `agst`, `adel` all are independent segments and you can add to them without any restrictions. Just keep the
      messages shorter than 200 characters and don't use ALL CAPS.
-
      1. `anws <msg>` - Add a news segment. **Shorthand:** `an`
      2. `agst <msg>` - Enter your message in guestbook. Only one entry per user is allowed. So make it count. Oh, as a pre-warning
          you can NOT delete them. **Shorthand:** `ag`
