@@ -2,7 +2,7 @@
 All commands need to be prefixed with one of these characters: `+` (plus), `-` (subtract), `*` (caret),
 `/` (forward-slash), `!` (exclamation mark), `#` (hash), `?` (question mark). These commands are sent
 as a private message to **`[BOT]Info`**. If you think that this documentation is missing something
-or it can rewritten/tweaked in a more user-friendly manner, feel free to send in a pull request.
+or it can rewritten/tweaked in a more user-friendly manner, feel free to send in a pull request or pm one of the admins.
 
 # Content
 The commands are sub-divided into following categories:
