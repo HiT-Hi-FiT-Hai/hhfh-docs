@@ -3,9 +3,7 @@ All commands need to be prefixed with one of these characters: `+` (plus), `-` (
 `/` (forward-slash), `!` (exclamation mark), `#` (hash), `?` (question mark). These commands are sent
 as a private message to **`[BOT]Info`**. If you think that this documentation is missing something
 or it can repharased/tweaked in a more user-friendly manner, feel free to send in a pull request.
-
 Note that we have used `/` (forward-slash), you can use any of the above mentioned prefixes
-
 Also not that LinuxDC++ does'nt support `/` (forward-slash) as a prefix, use any of the other prefixes.
 
 # Content

@@ -3,35 +3,33 @@ All commands need to be prefixed with one of these characters: `+` (plus), `-` (
 `/` (forward-slash), `!` (exclamation mark), `#` (hash), `?` (question mark). These commands are sent
 as a private message to **`[BOT]Offliner`**. If you think that this documentation is missing something
 or it can repharased/tweaked in a more user-friendly manner, feel free to send in a pull request.
-
 Note that we have used `/` (forward-slash), you can use any of the above mentioned prefixes
-
 Also not that LinuxDC++ does'nt support `/` (forward-slash) as a prefix, use any of the other prefixes.
 
 # Contents
 The commands are divided into following sub-sections:
 
  - For all users:
-    1. /latest or /l
-    1. /search or /s
-    1. /msg or /m
-    1. /showctg or /sc
-    1. /showmods or /sm
-    1. /help or /h
-    1. /rules or /r
+    1. latest or l
+    1. search or s
+    1. msg or m
+    1. showctg or sc
+    1. showmods or sm
+    1. help or h
+    1. rules or r
  - For moderators and above:
-    1. /addlatest or /al
-    1. /dellatest or /dl
-    1. /updatelatest or /ul
-    1. /addmagnet or /am
-    1. /editmagnet or /em
-    1. /removemagnet or /rm
+    1. addlatest or al
+    1. dellatest or dl
+    1. updatelatest or ul
+    1. addmagnet or am
+    1. editmagnet or em
+    1. removemagnet or rm
  - For VIP and above
-    1. /addmod
-    1. /delmod
+    1. addmod
+    1. delmod
  - For Operators and key users
-    1. /addctg
-    1. /delctg
+    1. addctg
+    1. delctg
 
 # Key
 The following provides a short index of user-input variables referenced later in documentation.
