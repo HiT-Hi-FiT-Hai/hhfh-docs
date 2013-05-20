@@ -2,7 +2,7 @@ HiT Hi FiT Hai Documentation
 ============================
 
 Repository for storing help files related to features and commands for use
-on *HiT Hi FiT Hai* DC++ hub. If you think any of them can be rewritten or tweaked
+on *HiT Hi FiT Hai* DC++ hub. If you think any of them can be repharased or tweaked
 you have an idea/suggestion for anything; fork/clone this repository to your account
 and send us a pull request.
 
