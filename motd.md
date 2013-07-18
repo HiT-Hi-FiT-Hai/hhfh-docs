@@ -39,7 +39,8 @@ Disclaimer
 **HiT Hi FiT Hai** hub intends to provide service to users willing to share "legal", "non objectionable"
 content. However the hub is only a "connectivity layer" between the clients and has no control over
 items shared. The user, and the user alone is responsible for his share. By entering into the hub you agree
-to the terms and condition of the hub.
+to the terms and condition of the hub.  The hub scripts are all work of admin and operators and all rights
+regarding it are reserved to respective authors.
 
 Rules
 =====
@@ -53,7 +54,7 @@ safe/riskfree hub for everyone.
 * NO upload limiting is allowed here (can be banned for this).
 * Add your Name Tags only at the end of filename and not before it.
 
-To get complete list of rules; use +rules command on mainchat/PM to PtokaX bot.
+For a comprehensive list of rules; use +rules command as PM to PtokaX bot.
 
 Notices
 =====
@@ -81,3 +82,13 @@ forums`[3]` and we'll provide link to such notices.
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 Use the report feature to report anything to the Admins. To use it right click(on user list)->report
+
+Useful Links
+========
+
+1. GitHub organization - https://github.com/HiT-Hi-FiT-Hai
+2. Little information about bots and scripts supported by the hub - http://hit-hi-fit-hai.github.io/ptokax-scripts/
+3. Documentation and help files - https://github.com/HiT-Hi-FiT-Hai/hhfh-docs
+4. Bugs and issues tracker - https://github.com/HiT-Hi-FiT-Hai/hhfh-issues
+5. IRC Channel (server: freenode; channel: #HHFH) - http://webchat.freenode.net?channels=HHFH
+6. Google group - http://groups.google.com/group/hhfh/topics
