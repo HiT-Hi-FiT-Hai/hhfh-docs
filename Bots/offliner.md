@@ -2,9 +2,9 @@
 All commands need to be prefixed with one of these characters: `+` (plus), `-` (subtract), `*` (caret),
 `/` (forward-slash), `!` (exclamation mark), `#` (hash), `?` (question mark). These commands are sent
 as a private message to **`[BOT]Offliner`**. If you think that this documentation is missing something
-or it can repharased/tweaked in a more user-friendly manner, feel free to send in a pull request. Note 
-that we have used `/` (forward-slash), you can use any of the above mentioned prefixes. Also note that 
-LinuxDC++ and a few other clients do not support `/` (forward-slash) as a prefix, use any of the other 
+or it can repharased/tweaked in a more user-friendly manner, feel free to send in a pull request. Note
+that we have used `/` (forward-slash), you can use any of the above mentioned prefixes. Also note that
+LinuxDC++ and a few other clients do not support `/` (forward-slash) as a prefix, use any of the other
 mentioned prefixes.
 
 # Contents
@@ -56,7 +56,8 @@ The following provides a short index of user-input variables referenced later in
     2. `/l <ctg> [<#LIMIT>]` - Any of the categories can be given as argument. You'll get a default 20 entries if the
     category exists otherwise works same as `latest`. An additional limit number can be provided.
 
- - `/search <string>` - The search string must have length greater than 3 characters.
+ - `/search <string>` - The search string must have length greater than 3 characters. To fetch results from a particular
+    category, or more than one categories; enclose them inside curly braces when passing with the search string.
 
  - `/showctg` lists all the available categories. Helpful for both new moderators and users.
 
