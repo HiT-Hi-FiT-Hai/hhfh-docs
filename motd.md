@@ -51,10 +51,13 @@ Rules
 safe/riskfree hub for everyone.
 * Fake Sharing is NOT allowed here. Anybody found sharing fake will be banned immediately.
 * Don't share crap like Windows and Program Files directory. You can be kicked or banned for 1-3 hours.
-* NO upload limiting is allowed here (can be banned for this).
+* Upload speed limiting is strictly prohibited. Can lead to a minimum ban time of 8 hours.
 * Add your Name Tags only at the end of filename and not before it.
 
-For a comprehensive list of rules; use +rules command as PM to PtokaX bot.
+For a comprehensive list of rules; use +rules command as PM to PtokaX bot. They can also be found online at
+our documentation repository [here][rules].
+
+  [rules]: https://github.com/HiT-Hi-FiT-Hai/hhfh-docs/blob/master/rules.md
 
 Notices
 =====

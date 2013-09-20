@@ -13,7 +13,7 @@
     3. Name your files/folders properly. Avoid names like AVESQ01.dat, 1.avi etc.
     4. Add your name tags only at the end of filename and not before it.
     5. Keep the DC temporary downloads directory unshared. It'll help your system perform better more than it'll help other users
- - **NO** upload speed limiting is allowed. Ban time will be at least 8 hours (*upto 1 year*).
+ - **NO** upload speed limiting is allowed. Ban time will be at least 8 hours ( *upto 1 year* ).
  - Following should **NOT** be practised on mainchat (and can be extended to chatrooms as well):
 
     1. Offensive language regarding VIPs/Admins because of personal grudges.
