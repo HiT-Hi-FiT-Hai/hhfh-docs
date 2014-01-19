@@ -39,21 +39,28 @@ Disclaimer
 **HiT Hi FiT Hai** hub intends to provide service to users willing to share "legal", "non objectionable"
 content. However the hub is only a "connectivity layer" between the clients and has no control over
 items shared. The user, and the user alone is responsible for his share. By entering into the hub you agree
-to the terms and condition of the hub.
+to the terms and condition of the hub.  The hub scripts are all work of admin and operators and all rights
+regarding it are reserved to respective authors. The hub logs clients log-ins and log-outs and their share
+and can use it for any purpose.
 
 Rules
 =====
 
 * Minimum Limit for connecting is : 0 GiB For searching and downloading: 64 GiB
-* Sharing porn/links which are marked NSFW, on mainchat; is strictly prohibited.
+* Sharing porn/links which are marked NSFW, on mainchat; is strictly prohibited. NSFW chatroom exists for that
+ purpose.
+* Discussions regarding Games and Anime have to carried out in their respective chatrooms and not on mainchat.
 * Don't use offensive language in common chat room. Don't spam in common chat room. Help us make it a
 safe/riskfree hub for everyone.
 * Fake Sharing is NOT allowed here. Anybody found sharing fake will be banned immediately.
 * Don't share crap like Windows and Program Files directory. You can be kicked or banned for 1-3 hours.
-* NO upload limiting is allowed here (can be banned for this).
+* Upload speed limiting is strictly prohibited. Can lead to a minimum ban time of 8 hours.
 * Add your Name Tags only at the end of filename and not before it.
 
-To get complete list of rules; use +rules command on mainchat/PM to PtokaX bot.
+For a comprehensive list of rules; use +rules command as PM to PtokaX bot. They can also be found online at
+our documentation repository [here][rules].
+
+  [rules]: https://github.com/HiT-Hi-FiT-Hai/hhfh-docs/blob/master/rules.md
 
 Notices
 =====
@@ -81,3 +88,13 @@ forums`[3]` and we'll provide link to such notices.
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 Use the report feature to report anything to the Admins. To use it right click(on user list)->report
+
+Useful Links
+========
+
+1. GitHub organization - https://github.com/HiT-Hi-FiT-Hai
+2. Little information about bots and scripts supported by the hub - http://hit-hi-fit-hai.github.io/ptokax-scripts/
+3. Documentation and help files - https://github.com/HiT-Hi-FiT-Hai/hhfh-docs
+4. Bugs and issues tracker - https://github.com/HiT-Hi-FiT-Hai/hhfh-issues
+5. IRC Channel (server: freenode; channel: #HHFH) - http://webchat.freenode.net?channels=HHFH
+6. Google group - http://groups.google.com/group/hhfh/topics
