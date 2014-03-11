@@ -19,7 +19,7 @@
                       (_(_(__(_-'"'          '"'-_)__)_)_)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-## Welcome to .:: HiT Hi FiT Hai ::.	   =- Share as much as you can -=
+### Welcome to .:: HiT Hi FiT Hai ::.	   =- Share as much as you can -=
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 	Hub Address       -
@@ -39,18 +39,19 @@ Disclaimer
 **HiT Hi FiT Hai** hub intends to provide service to users willing to share "legal", "non objectionable"
 content. However the hub is only a "connectivity layer" between the clients and has no control over
 items shared. The user, and the user alone is responsible for what they have shared. By entering into
-the hub you agree to this disclaimer and would abide by the rules of the hub. The hub scripts are all
-work of admin and operators and all rights regarding it are reserved to respective authors. 
-The hub logs client's log-ins and log-outs and their share and can use it for any purpose.
+the hub you agree to this disclaimer and would abide by the rules of the hub. The hub scripts are
+licenced under the [GNU General Public License v2][licence]. The hub logs clients' log ins and log outs and their share
+and can use it for any purpose.
 
+  [licence]: https://github.com/HiT-Hi-FiT-Hai/hhfh-docs/blob/master/LICENSE.txt
 
 Rules
 =====
 
-* Minimum Limit for connecting is : 0 GiB For searching and downloading: 64 GiB
-* Sharing pornography/links which are marked NSFW, on mainchat is strictly prohibited. #[NSFW] chatroom
- exists for that purpose.
-* Ongoing discussions on mainchat shouldn't be interrupted with discussions regarding Games and Anime,
+* Minimum limit for connecting is: 0 GiB. For searching and downloading: 64 GiB.
+* Sharing pornography/NSFW links, on mainchat, is strictly prohibited. #[NSFW] chatroom exists for
+ that purpose.
+* Ongoing discussions on mainchat shouldn't be interrupted with discussions regarding games or anime,
  they have to be carried out in their respective chatrooms.
 * Don't use offensive language in common chat room. Don't spam in common chat room. Help us make it a
  safe/riskfree hub for everyone.
