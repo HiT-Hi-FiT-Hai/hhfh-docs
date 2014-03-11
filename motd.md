@@ -33,7 +33,6 @@
 
 Check your right click for commands. Consult other users on forums about any problem about the hub.
 
->>>>>>> 4e51e93589e6e76a505b56c83af13329e0576fd7
 Disclaimer
 ==========
 
