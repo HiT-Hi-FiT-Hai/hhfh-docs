@@ -40,7 +40,7 @@ Disclaimer
 content. However the hub is only a "connectivity layer" between the clients and has no control over
 items shared. The user, and the user alone is responsible for what they have shared. By entering into
 the hub you agree to this disclaimer and would abide by the rules of the hub. The hub scripts are
-licenced under the [GNU General Public License v2][licence]. The hub logs clients' log ins and log outs and their share
+licenced under the [GNU General Public License v3][licence]. The hub logs clients' log ins and log outs and their share
 and can use it for any purpose.
 
   [licence]: https://github.com/HiT-Hi-FiT-Hai/hhfh-docs/blob/master/LICENSE.txt
