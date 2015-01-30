@@ -75,9 +75,9 @@ The following provides a short index of user-input variables referenced later in
  - `/addmagnet <#EID> <magnetLink>` - The addition entry ID and the magnet to be added. The ID must be a
  valid entry from the table. Non-numerical values are no accepted.
 
- - `/updatelatest <#EID> <entry>` - Update your previous entry while still keeping it in the same
+ - `/updatelatest [-m] <#EID> <entry>` or `/updatelatest <#EID> <entry> [-m]` - Update your previous entry while still keeping it in the same
  category. Magnet link are not to be passed here. If the entry was not made by you, you can not
- update it; unless you have permissions.
+ update it; unless you have permissions. By default, it is not shown on mainchat. `-m` is an optional flag to display update message on mainchat.
 
  - `/editmagnet <#MID> <magnetLink>` - Updates magnet related to certain magnet ID. They are shown with
  the respective magnet in latest table display.
