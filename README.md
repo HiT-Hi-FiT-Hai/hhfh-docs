@@ -11,7 +11,7 @@ the hub, you can file an issue on the [issue tracker][1] and one of the develope
 will surely look into it. The issue tracker repository is publicly maintained
 on <https://github.com/HiT-Hi-FiT-Hai/hhfh-issues>
 
-Web pages are hosted [here](http://hit-hi-fit-hai.github.io/ptokax-scripts) (<http://hit-hi-fit-hai.github.io/ptokax-scripts>)
+Web pages are hosted [here](http://hit-hi-fit-hai.github.io/ptokax-scripts).
 
 
   [1]: https://github.com/HiT-Hi-FiT-Hai/hhfh-issues
