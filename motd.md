@@ -56,6 +56,7 @@ Rules
 * Don't use offensive language in common chat room. Don't spam in common chat room. Help us make it a
  safe/riskfree hub for everyone.
 * Fake Sharing is NOT allowed here. Anybody found sharing fake will be banned immediately.
+* Mirror stuff that you download. You can be banned by VIPs for not mirroring stuff that you download.
 * Don't share crap like Windows and Program Files directory. You can be kicked or banned for 1-3 hours.
 * Upload speed limiting is strictly prohibited. Can lead to a minimum ban time of 8 hours.
 * Add your Name Tags only at the end of filename and not before it.
