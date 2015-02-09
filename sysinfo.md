@@ -1,14 +1,9 @@
-The PtokaX hub runs in a virtual environment with **QEMU** and **KVM**. Below
-is the redacted output of the `dmidecode` commands both from the physical
-machine as well as the virtual machine.
+The _HiT Hi FiT Hai_ PtokaX hub runs in a virtual environment with **QEMU** and
+**KVM**. Below is the redacted output of the `dmidecode` commands both from
+the physical machine as well as the virtual machine.
 
 # Physical Machine
 ========================
-
-    # dmidecode 2.11
-    SMBIOS 2.5 present.
-    50 structures occupying 1796 bytes.
-    Table at 0x0009F400.
 
     Handle 0x0000, DMI type 0, 24 bytes
     BIOS Information
@@ -236,11 +231,6 @@ machine as well as the virtual machine.
 
 # Virtual Machine
 ========================
-
-    # dmidecode 2.11
-    SMBIOS 2.4 present.
-    10 structures occupying 263 bytes.
-    Table at 0x000FD9B0.
 
     Handle 0x0000, DMI type 0, 24 bytes
     BIOS Information
