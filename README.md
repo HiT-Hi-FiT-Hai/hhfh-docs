@@ -13,5 +13,7 @@ on <https://github.com/HiT-Hi-FiT-Hai/hhfh-issues>
 
 Web pages are hosted [here](http://hit-hi-fit-hai.github.io/ptokax-scripts).
 
+Documentation regarding adding to / deleting from `requests`, `buynsell` and other tables can be found [here](Bots/info.md).
+
 
   [1]: https://github.com/HiT-Hi-FiT-Hai/hhfh-issues
