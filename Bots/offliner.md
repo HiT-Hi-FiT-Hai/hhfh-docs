@@ -10,7 +10,7 @@ All commands need to be **prefixed with one of these characters:**
 - `#` (hash)
 - `?` (question mark). 
 
-These commands are **sent as a private message** to **`[BOT]Info`**. 
+These commands are **sent as a private message** to **`[BOT]Offliner`**. 
 
 If you think that this documentation is missing something
 or it can be repharased/tweaked to make it more user-friendly, feel free to send in a pull request. 
