@@ -3,7 +3,7 @@
 All commands need to be **prefixed with one of these characters:**
 
 - `+` (plus)
--`-` (subtract)
+- `-` (subtract)
 - `*` (caret),
 - `/` (forward-slash)
 - `!` (exclamation mark)
